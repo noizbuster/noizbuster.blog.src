@@ -1,0 +1,4 @@
+[submodule "stemcell"]
+	path = stemcell
+	url = https://www.github.com/noizbuster/stemcell.git
+	branch = hexo
