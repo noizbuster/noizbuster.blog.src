@@ -8,7 +8,7 @@ date:   2016-04-12 00:00:00
 
 categories: development
 
-tags: [web, python flask]
+tags: [web, css, markup]
 
 ---
 
