@@ -9,7 +9,7 @@ menu:
 customize:
     logo:
         width: 180
-        height: 90
+        height: 180
         url: images/logo-noizbuster-header.png
     theme_color: '#006bde'
     highlight: androidstudio
