@@ -1,7 +1,21 @@
-# how to setup
+# How to Use
 
-```bash
-git clone this repo
-git submodule init
-git submodule update --recursive
+### 1. Bootstrap
+```
+./Bootstrap
+```
+
+### 2. Create new post
+```
+./create [title]
+```
+
+### 3. Compile blog
+```
+./build
+```
+
+### 4. Deploy blog
+```
+hexo deploy
 ```
