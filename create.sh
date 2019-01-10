@@ -5,6 +5,7 @@ cmd="python3 ./stemcell/postgen/articlegen.py -d ./raw_source/_posts/ -a noizbus
 if [ -n $1 ]
 then
     cmd="$cmd -t $1"
+    git checkout -b $1
 fi
 
 echo $cmd
