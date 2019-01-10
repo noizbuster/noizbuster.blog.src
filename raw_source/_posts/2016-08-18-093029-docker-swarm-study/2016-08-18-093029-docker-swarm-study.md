@@ -1,12 +1,14 @@
 ---
 
-author: noizbuster
-
 title: "Docker Swarm Study"
 
-tags: [docker, swarm, container]
+author: noizbuster
+
+date:   2016-08-18 09:30:29
 
 category: development
+
+tags: [docker, swarm, container]
 
 ---
 
